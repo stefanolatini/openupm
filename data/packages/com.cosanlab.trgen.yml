@@ -1,0 +1,20 @@
+name: com.cosanlab.trgen
+displayName: TriggerBox CLI
+description: >-
+  A Unity library that manages Ethernet socket communication with the CoSANLab
+  TriggerBox device.
+repoUrl: https://github.com/CoSANLabRome/TRGen-Unity
+parentRepoUrl: null
+licenseSpdxId: MIT
+licenseName: MIT License
+image: >-
+  https://raw.githubusercontent.com/CoSANLabRome/TRGen-Unity/refs/heads/main/images/banner.png
+topics:
+  - network
+  - physics
+hunter: CoSANLabRome
+gitTagPrefix: ''
+gitTagIgnore: ''
+minVersion: ''
+readme: main:README.md
+createdAt: 1757681710558
